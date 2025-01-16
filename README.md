@@ -4,6 +4,9 @@
 
 ### Versions
 
+#### `2025.1.3` 
+Added in mobile/desktop differences to make a responsive UI.
+
 #### `2025.1.2` 
 Dark/Light mode added. Styling added for the search page and the player cards.
 
